@@ -8,5 +8,5 @@ function myFunction() {
 }
 
 // I added a "Fun Fact" button to the "My interests" secction to highlight something related to my interests. 
-// When the button is clicked, it shows a fun fact section related to my last interest. It also hides the section when it is clicked again. 
-// The Javascript selects the button and div elements and the event listener responds to the click for the following id: "fact".
+// When the button is clicked, it shows a fun fact section related to my interest in playing the trumpet. It also hides the section when it is clicked again. 
+// The Javascript selects the button and div elements and the event listener responds to the click of the button for the following id: "fact".
